@@ -1,0 +1,3 @@
+easy_admin:
+    formats:
+        date: 'Y-m-d' # Change the date format to your preference
